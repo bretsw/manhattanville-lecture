@@ -36,7 +36,7 @@ class: inverse, center, middle
 
 # Slides
 
-[bretsw.github.io/pace-lecture/](https://bretsw.github.io/pace-lecture/)
+[bretsw.github.io/manhattanville-lecture/](https://bretsw.github.io/manhattanville-lecture/)
 
 ---
 
@@ -298,4 +298,4 @@ include_graphics("img/question.jpg")
 
 * **GitHub:** [bretsw](https://github.com/bretsw)
 
-* **Slides:** [bretsw.github.io/pace-lecture/](https://bretsw.github.io/pace-lecture/)
+* **Slides:** [bretsw.github.io/manhattanville-lecture/](https://bretsw.github.io/manhattanville-lecture/)
