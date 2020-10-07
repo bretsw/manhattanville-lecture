@@ -150,7 +150,7 @@ include_graphics("img/empty-space.jpg")
 
 ---
 
-# Communities of Practive
+# Communities of Practice
 
 ```{r, out.width = "420px", echo = FALSE, fig.align = "center"}
 include_graphics("img/community.jpg")
